@@ -1,16 +1,17 @@
-# tiktok_demo
+# Tiktok Clone
 
-A new Flutter project.
+Full Stack Tiktok Clone using flutter and firebase
+
 
 ## Getting Started
+To run locally, Run:
+- flutter pub get
+- flutter run
 
-This project is a starting point for a Flutter application.
+### Project Architecture
+Project uses MVC (Model View Controller) Architecture to achieve full stack functionality
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Current Progress
+- SignUp / Login Screen Completed
+- Home Screen Completed
+- Upload Video Completed
